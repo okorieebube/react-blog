@@ -7,11 +7,11 @@ It uses core react features like, routers, components, api clients, and concepts
 ## Installation
 * Clone the repo
 * Create the DB required in the .env file
-* Run the command below from your cli, to install the node_modules
+* Run this command from your cli, to install the node_modules
 `npm i`
-* Run the command below, to start the react server
+* Run this command, to start the react server
 `npm start`
-* Run the command below, to start the json server
+* Run this command, to start the json server
 `npx json-server --watch data/db.json --port 8000`
 
 ## Contributions
