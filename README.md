@@ -6,7 +6,6 @@ It uses core react features like, routers, components, api clients, and concepts
 
 ## Installation
 * Clone the repo
-* Create the DB required in the .env file
 * Run this command from your cli, to install the node_modules
 `npm i`
 * Run this command, to start the react server
